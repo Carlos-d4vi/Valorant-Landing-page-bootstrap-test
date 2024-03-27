@@ -1,0 +1,65 @@
+.header-background{
+    background-color: #D23141;
+}
+
+.navbar div p,
+.navbar div p:hover{
+    color: #EEE7E5;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #393736;
+    background-color: #EEE7E5;
+}
+
+.text-colored{
+    color: #D23141;
+}
+
+.carousel-item img {
+    height: 800px;
+    
+}
+
+#Sobre-a-beta{
+    background-color: #0E1820;
+    color: #EEE7E5;
+}
+
+.btn.active{
+    background-color: #D23141;
+    border: none;
+    outline: none;
+}
+
+.play-now a{
+    color: #D23141;
+    text-decoration: none;
+}
+
+.pc-button.active,
+.pc-button:hover{
+    background-color: #000;
+}
+
+.xbox-button.active,
+.xbox-button:hover{
+    background-color: #107C10;
+}
+
+.playstation-button.active,
+.playstation-button:hover{
+    background-color: #004EA2;
+}
+
+.switch-button.active,
+.switch-button:hover{
+    background-color: #E60012;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 228px;
+    }
+}
