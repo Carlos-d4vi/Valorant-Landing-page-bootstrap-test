@@ -47,22 +47,26 @@ nav ul li a{
 }
 
 .pc-button.active,
-.pc-button:hover{
+.pc-button:hover,
+.steam-play-now-button{
     background-color: #000;
 }
 
 .xbox-button.active,
-.xbox-button:hover{
+.xbox-button:hover,
+.xbox-play-now-button{
     background-color: #107C10;
 }
 
 .playstation-button.active,
-.playstation-button:hover{
+.playstation-button:hover,
+.playstation-play-now-button{
     background-color: #004EA2;
 }
 
 .switch-button.active,
-.switch-button:hover{
+.switch-button:hover,
+.switch-play-now-button{
     background-color: #E60012;
 }
 
