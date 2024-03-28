@@ -1,20 +1,28 @@
+body{
+    font-family: 'Reddit Mono', monospace;
+}
+
 .header-background{
     background-color: #D23141;
 }
 
 .navbar div p,
 .navbar div p:hover{
-    color: #EEE7E5;
+    color: #FFF;
 }
 
 nav ul li a{
     text-decoration: none;
-    color: #393736;
-    background-color: #EEE7E5;
+    color: #FFF;
+    background-color: #0E1820;
 }
 
 .text-colored{
     color: #D23141;
+}
+
+.text-colored-like-black{
+    color: #0E1820;
 }
 
 .carousel-item img {
@@ -56,6 +64,14 @@ nav ul li a{
 .switch-button.active,
 .switch-button:hover{
     background-color: #E60012;
+}
+
+textarea{
+    resize: none;
+}
+
+#icons ul li{
+    list-style: none;
 }
 
 @media (max-width: 767px) {
