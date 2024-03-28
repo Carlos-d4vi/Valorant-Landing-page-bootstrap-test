@@ -1,9 +1,30 @@
 body{
     font-family: 'Reddit Mono', monospace;
+    
 }
 
 .header-background{
     background-color: #D23141;
+}
+
+.sobre-o-jogo-nav.active{
+    background-color: #fff;
+    color: #D23141;
+}
+
+.sobre-o-beta-nav.active{
+    background-color: #fff;
+    color: #D23141;
+}
+
+.consoles-nav.active{
+    background-color: #fff;
+    color: #D23141;
+}
+
+.como-participar-nav.active{
+    background-color: #fff;
+    color: #D23141;
 }
 
 .navbar div p,
@@ -14,7 +35,7 @@ body{
 nav ul li a{
     text-decoration: none;
     color: #FFF;
-    background-color: #0E1820;
+    /* background-color: #0E1820; */
 }
 
 .text-colored{
@@ -30,7 +51,7 @@ nav ul li a{
     
 }
 
-#Sobre-a-beta{
+#Sobre-o-beta{
     background-color: #0E1820;
     color: #EEE7E5;
 }
