@@ -32,7 +32,7 @@ body{
     color: #FFF;
 }
 
-nav ul li a{
+header ul li a{
     text-decoration: none;
     color: #FFF;
     /* background-color: #0E1820; */
