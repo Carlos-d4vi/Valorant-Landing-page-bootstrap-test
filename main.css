@@ -99,8 +99,8 @@ textarea{
     list-style: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767px) {    
     .carousel-item img {
-        height: 228px;
+        height: 628px;
     }
 }
