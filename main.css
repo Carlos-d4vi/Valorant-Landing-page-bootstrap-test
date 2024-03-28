@@ -7,6 +7,10 @@ body{
     background-color: #D23141;
 }
 
+#nav-collapse-button{
+    background-color: #fff;
+}
+
 .sobre-o-jogo-nav.active{
     background-color: #fff;
     color: #D23141;
